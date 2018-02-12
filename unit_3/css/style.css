@@ -1,3 +1,4 @@
 body {
-    background-image: url("code/unit_3/images/living_room.jpeg");
+    background-image: <img src="code/unit_3/images/living_room.jpeg" alt="living room photo" title="living room">;
 }
+
