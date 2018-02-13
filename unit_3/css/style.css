@@ -1,4 +1,13 @@
+
 body {
-    background-image: <img src="code/hwsells.github.io/unit_3/images/living_room.jpeg" alt="living room photo" title="living room">;
+    color: blue;
 }
 
+h1 {
+    color: green;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
