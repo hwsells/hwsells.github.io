@@ -1,13 +1,41 @@
 
 body {
-    color: blue;
+    color: #353535;
 }
 
 h1 {
-    color: green;
+    color: #353535;
+    text-align: center;
+    font-family: Avenir 85 Heavy;
+    /*Question - how to load fonts*/
+}
+
+h3 {
+    color: #353535;
+    text-align: center;
 }
 
 ul {
     text-align: center;
     list-style-type: none;
 }
+
+p {
+    color: #353535;
+    text-align: center;
+}
+
+
+img.primary {
+    max-width: 50%;
+    max-height: 50%;
+    margin: 30px;
+}
+
+img.secondary {
+    max-width: 30%;
+    max-height: 30%;
+    margin: 20px;
+}
+
+/* Why is the margin going round the photo not the div? */
