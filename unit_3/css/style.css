@@ -7,7 +7,6 @@ h1 {
     color: #353535;
     text-align: center;
     font-family: Avenir 85 Heavy;
-    /*Question - how to load fonts*/
 }
 
 h3 {
@@ -39,3 +38,4 @@ img.secondary {
 }
 
 /* Why is the margin going round the photo not the div? */
+/*Question - how to load fonts*/
