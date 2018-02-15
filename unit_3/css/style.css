@@ -1,6 +1,12 @@
 
+@import src: font-url('Avenir85Heavy.woff2') format("woff2");
+/* Not sure how to pull the font from file */
+
+
 body {
     color: #353535;
+    line-height: 1.5em;
+    font-family: Weissenhof Grotesk Regular;
 }
 
 h1 {
@@ -22,6 +28,9 @@ ul {
 p {
     color: #353535;
     text-align: center;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin: 2em;
 }
 
 
