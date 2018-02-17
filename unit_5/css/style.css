@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/* @import src: font-url('Avenir85Heavy.woff2') format("woff2"); */
+/* Not sure how to pull the font from file */
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: red;
+    font-size: 20px;
+}
+
+ul li{
+    display: inline;
+    margin: 20px;
+  }
+
+body {
+    color: #353535;
+    line-height: 1.5em;
+    font-family: Open Sans, Weissenhof Grotesk Regular;
+}
+
+article {
+    padding: 10px;
+    background-color: blueviolet;
+    border: 4px solid black;
+}
+
+h1 {
+    color: #353535;
+    text-align: center;
+    /* font-family: Open Sans, Avenir 85 Heavy; */
+}
+
+h3 {
+    color: #353535;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+p {
+    color: #353535;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
+#wrapper {
+    background-color: blue;
+    margin: 40px;
+}
+
+main {
+    background-color: green;
+}
+
+footer{
+    background-color: bisque;
+}
+
+
+/* Why is the margin going round the photo not the div? */
+/*Question - how to load fonts*/

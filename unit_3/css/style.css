@@ -77,5 +77,11 @@ footer{
     background-color: bisque;
 }
 
+ul li{
+    display: inline;
+    margin: 20px;
+
+  }
+
 /* Why is the margin going round the photo not the div? */
 /*Question - how to load fonts*/
