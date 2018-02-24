@@ -2,6 +2,15 @@
 /* @import src: font-url('Avenir85Heavy.woff2') format("woff2"); */
 /* Not sure how to pull the font from file */
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 header {
     background-color: aqua;
 }
