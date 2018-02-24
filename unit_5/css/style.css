@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 /* @import src: font-url('Avenir85Heavy.woff2') format("woff2"); */
 /* Not sure how to pull the font from file */
+/*https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp*/
 
 header {
     background-color: aqua;
